@@ -9,11 +9,11 @@ Questions to be answered :
 - Which Pizza sizes were making more sales and being ordered more or less ?
 - What were the most/ least popular Pizza names among customers ?
 - Which Categories were most Profitable ?
-- Cleaning Process
-The Data was opened in the Power Query after loading it into Power BI .
 
-- I modelled the data so as to ensure Dimensions and fact Table were put correctly .
-- I Changed columns with incorrect datatypes to the appropriate ones .
-- I ensured the source region corresponded with my Power BI region so as to remove errors associated with the price column.
-- I created new columns like, Day of the week, time of the day , Months etc by extracting the data from the date column .
-- I also created a new measure "Revenue" that is the multiplication of the quantity by the price .
+ Cleaning Process
+The Data was opened in Power Query after loading it into Power BI .
+- modelled the data so as to ensure Dimensions and fact Table were put correctly .
+- Changed columns with incorrect datatypes to the appropriate ones .
+- Ensured the source region corresponded with my Power BI region so as to remove errors associated with the price column.
+- Created new columns like, Day of the week, time of the day , Months etc by extracting the data from the date column .
+- Also created a new measure "Revenue" that is the multiplication of the quantity by the price .
