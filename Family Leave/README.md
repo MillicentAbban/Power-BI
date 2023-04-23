@@ -1,10 +1,12 @@
-# The analysis summarizes data on the number of paid and unpaid leave weeks ,offered by various companies 
+## The Maternal and Paternal Leave Analyses
+
+The analysis summarizes data on the number of paid and unpaid leave weeks ,offered by various companies 
 in different industries. It includes the number of companies, industries and the number of weeks given or 
 not given.
 
 The tools used for this analysis is Power Bi
 
-## Some Question I sort to answer were :
+### Some Question I sort to answer were :
 
 i. The Total Number Companies
 
